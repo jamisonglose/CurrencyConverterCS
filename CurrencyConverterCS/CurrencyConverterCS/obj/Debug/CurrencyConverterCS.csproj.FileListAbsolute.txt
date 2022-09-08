@@ -1,0 +1,46 @@
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\CurrencyConverterCS.exe.config
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\CurrencyConverterCS.exe
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\CurrencyConverterCS.pdb
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.AssemblyReference.cache
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\MainWindow.g.cs
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\App.g.cs
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS_MarkupCompile.cache
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS_MarkupCompile.lref
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\MainWindow.baml
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.g.resources
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.Properties.Resources.resources
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.GenerateResource.cache
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.CoreCompileInputs.cache
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.exe
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.pdb
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\App.baml
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.CopyComplete
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS_Content.g.cs
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\Database\CurrencyConverter.mdf
+C:\Users\jamis\iCloudDrive\Software Developer Files\C Sharp\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\Database\CurrencyConverter_log.ldf
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\Database\CurrencyConverter.mdf
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\Database\CurrencyConverter_log.ldf
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\CurrencyConverterCS.exe.config
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\CurrencyConverterCS.exe
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\CurrencyConverterCS.pdb
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\FontAwesome.WPF.dll
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\bin\Debug\FontAwesome.WPF.xml
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.AssemblyReference.cache
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\MainWindow.g.cs
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\App.g.cs
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS_Content.g.cs
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS_MarkupCompile.cache
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS_MarkupCompile.lref
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\App.baml
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\MainWindow.baml
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.g.resources
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.Properties.Resources.resources
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.GenerateResource.cache
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.CoreCompileInputs.cache
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.csproj.CopyComplete
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.exe
+C:\Users\jamis\Documents\CS Files\CurrencyConverterCS\CurrencyConverterCS\obj\Debug\CurrencyConverterCS.pdb
